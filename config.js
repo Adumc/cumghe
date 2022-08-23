@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Dear Vu Hien Linh cute nhấc hệ mặt trời',
+    introDesc: `So I got a serious thing to say and please allow me do in English but please ignore my freaking grammar`,
+    btnIntro: 'I know that we see each other too recent which makes me feel a little feeling for you but there is still something that i feel lost.
+    It's obviously my problem but i want to make clear for you. Hope you can understand',
+    title: 'I think I like you in many ways and it seems our relationship is going a bit fast so maybe it make you feel cynical.I want to clearify a thing but u need first answer this question.  ',
+    desc: 'Do you have feelings for me ? ',
+    btnYes: 'Can you tell ?',
+    btnNo: 'No',
+    question:'I have low self esteem and i really need to prepare for a new relationship. Although I think I do like you, I just want time to change myself to be better for you or maybe me  ',
+    btnReply: 'Please tell me something',
+    reply: '',
+    mess: 'Thank you for your answer',
+    messDesc: 'I will tell u more in person.',
+    btnAccept: 'Thank you',
+   
 }
